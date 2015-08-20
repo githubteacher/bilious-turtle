@@ -1,2 +1,2 @@
 #foood
-suchi
+sushi :sushi
