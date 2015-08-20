@@ -2,3 +2,4 @@
 - :sushi:
 - :beer:
 - :fish_cake:
+- :bento:
