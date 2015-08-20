@@ -1,2 +1,2 @@
-## Resources
-- [GitHub Flow](https://guides.github.com/introduction/flow/)
+# bilious-turtle
+demo repo for today's class
